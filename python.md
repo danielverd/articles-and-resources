@@ -1,0 +1,5 @@
+# Python Resources
+
+Here's a list of Python resources I've read through and found helpful. I'm storing them all here both so I don't lose track of them and so I can publicize the best resources I've found. For now, while the list is short, the organization will be pretty self-evident; I may come back and update this as the list grows.
+
+[The Definitive Guide to Python import Statements](https://chrisyeh96.github.io/2017/08/08/definitive-guide-python-imports.html) - This document, more than any Youtube tutorial or university lecture, taught me the essentials of multi-file programming in python. Its description of how Python resolves import statements for local modules and packages were particularly helpful. This article also got me to finally understand how to build my own packages and why we use if __name__ == '__main__' in code.
